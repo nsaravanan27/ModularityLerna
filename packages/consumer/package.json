@@ -1,6 +1,6 @@
 {
-  "name": "add",
-  "version": "0.0.1-0",
+  "name": "consumer",
+  "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -8,6 +8,5 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC",
-  "gitHead": "aa1ea119416e9c6f411c6e277d1e5e0e639553ca"
+  "license": "ISC"
 }
